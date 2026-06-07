@@ -47,7 +47,7 @@
 
 ```bash
 # 1. Clone le dépôt
-git clone https://github.com/TON-PSEUDO/Jathniel-Hacking-Site.git
+git clone https://github.com/ronnymboumba1-maker/Jathniel-Hacking-Site.git
 
 # 2. Va dans le dossier
 cd Jathniel-Hacking-Site
