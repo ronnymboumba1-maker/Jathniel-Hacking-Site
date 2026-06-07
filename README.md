@@ -1,4 +1,4 @@
-# ⚡ JATHNIEL SECURITY LABS
+# ⚡ JATHNIEL SECURITY HACKING ETHICAL
 
 ![Version](https://img.shields.io/badge/version-2.4.0-blue)
 ![Node](https://img.shields.io/badge/Node.js-18.x-green)
